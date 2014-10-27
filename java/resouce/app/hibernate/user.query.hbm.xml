@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+<!--     <query name="getAttachmentByBasicIds">
+        
+        from PreTopicAttachment t where 1=1 and t.isDel = false and t.basicId in :basicId and t.attachmentType = :attachmentType
+        
+    </query>
+    
+     <query name="getAttachmentByBasicId">
+        
+        from PreTopicAttachment t where 1=1 and t.isDel = false and t.basicId = :basicId and t.attachmentType = :attachmentType
+        
+    </query> -->
+    
+    
+    
+</hibernate-mapping>
